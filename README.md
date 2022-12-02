@@ -1,4 +1,4 @@
-# QrGen-Team_59
+# QrGen-Team_39
 
 
 ## Project Catalogue
@@ -68,55 +68,11 @@ The 3rd feature includes a sign up page /login page and 4th feature suggests (as
 
 “I am a developer, I set up a profile on the proposed application with my portfolio links, after which a QR code is generated for me. I have an option of sharing the QR code to social media or download it on my phone.”
 
-### Niche
 
-Advertising
-
-### Links
-
-<a href="https://www.figma.com/file/8Vrbtq1xTftwm2bkfZ3b4N/QR_Gen-UI?node-id=997%3A844">Figma</a>
-
-<a href="https://docs.google.com/document/d/1lKO8hl6WJ_PYUi_mxPtR3WZw_DRKZUjq0kXCz3Bav2k/edit">Google Docs</a>
-
-## Set Up and Installation
 
 Clone the repository into your local machine, to install this project, using the following command;
                 
-                git clone https://github.com/zuri-training/QrGen-Team-59.git
-
-After cloning, change directory into the project folder, using the command below;
-
-                cd <project-directory>
-                
-Create a virtual environment (unarguably a very useful practice for new projects) to install the required dependencies, using; 
-
-                virtualenv <virtual-environment-name>
-                 
-Activate the virtual environment you created using;              
-  
-    Linux/OS: 
-   
-                $ source <virtual-environment-name>/Scripts/activate
-              
-    Windows OS:
-   
-                C:\Users\Name\<project-directory> path\to\<virtual-environment-name>\Scripts\activate
-  
-Install the required dependencies using;
-
-                pip install -r requirements.txt
-                
-Prepare the models as tables to be migrated to the database using;
-                
-                python manage.py makemigrations
-                
-Migrate the tables using;
-
-                python manage.py migrate
-                 
-Then run your server using;
-
-                  python manage.py runserver
+                git clone https://github.com/Achiver11/Team-39_QrGen.git
 
 
 ## Technologies Used
